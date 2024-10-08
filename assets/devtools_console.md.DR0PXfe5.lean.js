@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./chunks/framework.DkZrsx35.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"devtools/console.md","filePath":"devtools/console.md"}'),s={name:"devtools/console.md"};function a(c,n,r,l,d,p){return t(),o("div")}const m=e(s,[["render",a]]);export{i as __pageData,m as default};
