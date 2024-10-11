@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DkZrsx35.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"NoAccess"},"headers":[],"relativePath":"noaccess/index.md","filePath":"noaccess/index.md"}'),s={name:"noaccess/index.md"};function c(n,o,r,d,i,p){return a(),t("div")}const f=e(s,[["render",c]]);export{m as __pageData,f as default};
