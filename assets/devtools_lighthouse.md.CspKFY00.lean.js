@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.DkZrsx35.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"devtools/lighthouse.md","filePath":"devtools/lighthouse.md"}'),s={name:"devtools/lighthouse.md"};function a(r,c,n,i,l,d){return o(),t("div")}const _=e(s,[["render",a]]);export{p as __pageData,_ as default};
