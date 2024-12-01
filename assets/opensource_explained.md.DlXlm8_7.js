@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DkZrsx35.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"opensource/explained.md","filePath":"opensource/explained.md"}'),o={name:"opensource/explained.md"};function n(r,s,c,p,d,i){return a(),t("div")}const m=e(o,[["render",n]]);export{_ as __pageData,m as default};
